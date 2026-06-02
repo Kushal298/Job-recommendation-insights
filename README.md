@@ -5,7 +5,7 @@ Predicts whether a job seeker will be **placed (hired)** or **not placed** based
 
 **Dataset:** [Kaggle  Campus Recruitment Dataset](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement)  
 **Records:** 215 students × 14 features  
-**Target:** Binary — Placed = 1 | Not Placed = 0
+**Target:** Binary  Placed = 1 | Not Placed = 0
 
 ---
 
