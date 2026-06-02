@@ -1,9 +1,9 @@
 # Job Recommendation Insights
-### Data Mining Project — Machine Learning with Python
+### Data Mining Project  Machine Learning with Python
 
 Predicts whether a job seeker will be **placed (hired)** or **not placed** based on academic background, skills, and work experience. Uses supervised and unsupervised machine learning to uncover placement patterns and group candidate profiles.
 
-**Dataset:** [Kaggle — Campus Recruitment Dataset](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement)  
+**Dataset:** [Kaggle  Campus Recruitment Dataset](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement)  
 **Records:** 215 students × 14 features  
 **Target:** Binary — Placed = 1 | Not Placed = 0
 
